@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yucheng Pan"
-  pronouns         : he/him
+  pronouns         : # he/him
   bio              : "Undergraduate @ Tsinghua University"
   location         : "Beijing, China"
   employer         : # "Red Brick University"
