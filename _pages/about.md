@@ -11,13 +11,13 @@ I'm a fourth year undergraduate student from [Department of Physics](https://www
 
 I'm very incredibly fortunate to collaborate with:
 - [**Prof. Mengdi Wang**](https://mwang.princeton.edu/), Department of Electrical and Computer Engineering, Princeton University and [**Prof. Huazheng Wang**](https://huazhengwang.github.io/), School of Electrical Engineering and Computer Science, Oregon State University:
-During my remote research internship, I delved into LLM agents, RL, and Multi-Agent Systems, gaining invaluable insights and forming my main research interests.
+  <ul><li style="list-style-type: none;">During my remote research internship, I delved into LLM agents, RL, and Multi-Agent Systems, gaining invaluable insights and forming my main research interests.</li></ul>
 - [**Prof. Yao Li**](https://stor.unc.edu/faculty-member/li-yao/), Department of Statistics and Operations Research, University of North Carolina at Chapel Hill and [**Prof. Minhao Cheng**](https://cmhcbb.github.io/#:~:text=I%20am%20an%20assistant%20professor%20in%20the%20College%20of%20Information), College of Information Sciences and Technology, Pennsylvania State University:
-This remote research internship allowed me to explore AI Safety and Deep Learning in practice, deepening my practical knowledge.
+  <ul><li style="list-style-type: none;">This remote research internship allowed me to explore AI Safety and Deep Learning in practice, deepening my practical knowledge.</li></ul>
 - [**Prof. Wenhui Fan**](https://www.au.tsinghua.edu.cn/en/info/1091/3353.htm), Department of Automation, Tsinghua University:
-As an undergraduate research assistant, I focused on LLM agents in robotics control, contributing to realistic applications.
+  <ul><li style="list-style-type: none;">As an undergraduate research assistant, I focused on LLM agents in robotics control, contributing to realistic applications.</li></ul>
 - [**Prof. Ke Deng**](https://tsing.v-dk.com/en/teambuilder/faculty/ke-deng/#:~:text=Ke%20Deng%20-%20%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%BB%9F%E8%AE%A1%E5%AD%A6%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83.%20Associate%20Professor.%20Research%20Areas:%20statistical%20modeling), Center for Statistical Science, Tsinghua University:
-In this role, I researched applied statistics and deep learning, honing my skills in the mathematical and statistical aspects of AI.
+  <ul><li style="list-style-type: none;">In this role, I researched applied statistics and deep learning, honing my skills in the mathematical and statistical aspects of AI.</li></ul>
 
 You can find my CV [here](./assets/cv.pdf).
 
