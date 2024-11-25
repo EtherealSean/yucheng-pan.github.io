@@ -16,7 +16,7 @@ I'm very incredibly fortunate to collaborate with:
   <ul><li style="list-style-type: none;">This remote research internship allowed me to explore AI Safety and Deep Learning in practice, deepening my practical knowledge.</li></ul>
 - [**Prof. Wenhui Fan**](https://www.au.tsinghua.edu.cn/en/info/1091/3353.htm), Department of Automation, Tsinghua University:
   <ul><li style="list-style-type: none;">As an undergraduate research assistant, I focused on LLM agents in robotics control, contributing to realistic applications.</li></ul>
-- [**Prof. Ke Deng**](https://tsing.v-dk.com/en/teambuilder/faculty/ke-deng/#:~:text=Ke%20Deng%20-%20%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%BB%9F%E8%AE%A1%E5%AD%A6%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83.%20Associate%20Professor.%20Research%20Areas:%20statistical%20modeling), Department of Statistics and Data Science, Tsinghua University:
+- [**Prof. Ke Deng**](https://tsing.v-dk.com/en/teambuilder/faculty/ke-deng/#:~:text=Ke%20Deng%20-%20%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%BB%9F%E8%AE%A1%E5%AD%A6%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83.%20Associate%20Professor.%20Research%20Areas:%20statistical%20modeling), Center for Statistical Science, Tsinghua University:
   <ul><li style="list-style-type: none;">In this role, I researched applied statistics and deep learning, honing my skills in the mathematical and statistical aspects of AI.</li></ul>
 
 You can find my CV [here](./assets/cv.pdf).
