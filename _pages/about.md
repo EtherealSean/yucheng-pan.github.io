@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year undergraduate student from [Department of Physics](https://www.phys.tsinghua.edu.cn/phyen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). My research interests primarily lie in the intersection of LLM agents and Reinforcement Learning (RL). I have a strong passion for Lifelong Learning and Bio-inspired AI. Additionally, I am interested in Multi-Agent Systems, AI Safety, and Deep Learning.
+I'm a fourth year undergraduate student from [Department of Physics](https://www.phys.tsinghua.edu.cn/phyen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). My research interests primarily lie in the intersection of LLM agents and Reinforcement Learning (RL). Additionally, I am interested in Multi-Agent Systems, AI Safety, and Deep Learning, and I have a strong passion for Lifelong Learning and Bio-inspired AI.
 
 I'm very incredibly fortunate to collaborate with:
 - [**Prof. Mengdi Wang**](https://mwang.princeton.edu/), Department of Electrical and Computer Engineering, Princeton University and [**Prof. Huazheng Wang**](https://huazhengwang.github.io/), School of Electrical Engineering and Computer Science, Oregon State University:
