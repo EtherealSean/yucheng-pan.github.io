@@ -3,7 +3,7 @@ title: "LLM Agents Can Deceive and Be Constrained by Social Norms and Payoff All
 collection: publications
 category: manuscripts
 permalink: /publication/2024-10-29-paper-title-PGG
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Under review.'
 date: 2024-10-29
 venue: 'Nature Computational Science'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
@@ -11,4 +11,4 @@ venue: 'Nature Computational Science'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+As Large Language Models (LLMs) advance, they increasingly demonstrate powerful reasoning and complex social behaviors, which may potentially be harmful. Ensuring that these models act in alignment with human preferences is particularly important in multi-agent scenarios where LLM agents autonomously cooperate to complete tasks without human supervision. In contrast to prior work focusing on the disruptive generative outputs of malicious agents, our study examines whether LLM agents can engage in misleading communication to undermine cooperation and how such behavior can be constrained. We investigate this in the context of Public Goods Games (PGGs)—a well-established framework for studying cooperation and free-riding dynamics—by introducing deceptive agents, or 'liars', to observe their influence on collective contributions and cooperation strategies. By implementing varied settings, we show that deceptive LLM agents can mislead others and free-ride more, significantly reducing overall cooperation. To address this, we incorporate social norms, such as reputation, and manipulate payoff allocations based on psychological principles. Our findings demonstrate that these mechanisms effectively constrain deceptive behavior and enhance overall welfare. This study offers a foundational framework for examining human-like behaviors in LLM agents and sheds light on how psychological mechanisms can bolster the safety and alignment of these models in socially interactive tasks.
