@@ -1,7 +1,6 @@
 ---
 title: "LLM Agents Can Deceive and Be Constrained by Social Norms and Payoff Allocations"
-collection: teaching
-type: Under Review
+collection: publications
 # category: manuscripts
 permalink: /publication/2024-10-29-paper-title-PGG
 excerpt: 'Investigate how LLM agents exhibit deceptive behaviors in multi-agent games and design mechanisms to enforce compliance with social norms and fair payoff distributions.'
