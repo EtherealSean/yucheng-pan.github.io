@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yucheng Pan / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yucheng Pan"
-description              : &description "Undergraduate @ Tsinghua University"
+description              : &description "Undergraduate @ Tsinghua"
 url                      : https://etherealsean.github.io/yucheng-pan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "etherealsean/yucheng-pan.github.io"
@@ -22,7 +22,7 @@ repository               : "etherealsean/yucheng-pan.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yucheng (Sean) Pan"
+  name             : "Yucheng (Ethan) Pan"
   pronouns         : # he/him
   bio              : "Undergraduate @ Tsinghua University"
   location         : "Beijing, China"
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : SeanZGWS
+  twitter          : EthanYuchengPan
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
